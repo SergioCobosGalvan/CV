@@ -72,6 +72,10 @@ body{
 
 .texto{
   font-size: 18px;
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 5px 5px;
+  margin: 1px auto;
 }
 .pantalla1{
   display: grid;
